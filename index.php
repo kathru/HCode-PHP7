@@ -1,3 +1,3 @@
 <?php
-    echo '<p>Meu primeiro código PHP!</p>';
+    echo '<p>Olá mundo!</p>';
 ?>
